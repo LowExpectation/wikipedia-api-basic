@@ -39,7 +39,7 @@ Hello and welcome, we will be exploring some functionality of the Wikipedia API.
 
 ## Setup
 
-First, you need to setup yourself with an `API key` from the wikimedia group. Here are some instructions on how to get started [wikimedia API Portal](https://api.wikimedia.org/wiki/Main_Page). Once you get that setup make sure to create your `.env.local` file and use the import to hide your key from the public.
+First, although not needed now, you will eventually need to setup yourself with an `API key` from the wikimedia group. Here are some instructions on how to get started [wikimedia API Portal](https://api.wikimedia.org/wiki/Main_Page). Once you get that setup make sure to create your `.env.local` file and use the import to hide your key from the public.
 
 ## Examples
 
